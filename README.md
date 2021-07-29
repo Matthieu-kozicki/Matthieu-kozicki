@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
 <h3 align="center">A passionate fullstack developer from Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthieu-kozicki&label=Profile%20views&color=0e75b6&style=flat" alt="matthieu-kozicki" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=matthieu-kozicki&label=Profile%20views&color=0e75b6&style=flat" alt="matthieu-kozicki" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
