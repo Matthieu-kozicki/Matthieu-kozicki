@@ -9,4 +9,6 @@
   <img alt="Matthieu KOZICKI's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
  
+  <br> [![Spotify](https://novatorem-self-tau.vercel.app/api/spotify)  ![Matthieu's github stats](https://github-readme-stats.vercel.app/api?username=matthieu-kozicki&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
