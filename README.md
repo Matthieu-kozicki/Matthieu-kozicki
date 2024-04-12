@@ -70,5 +70,5 @@
   </p>
 
 
-<br> [![Spotify](https://novatorem-self-tau.vercel.app/api/spotify)  ![Matthieu's github stats](https://github-readme-stats.vercel.app/api?username=matthieu-kozicki&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br> ![Spotify](https://novatorem-self-tau.vercel.app/api/spotify)
  
